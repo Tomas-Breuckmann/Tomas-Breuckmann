@@ -1,19 +1,14 @@
-### Hi there 👋
+### Olá, eu me chamo Tomas Breuckmann.
 
-<!--
-**Tomas-Breuckmann/Tomas-Breuckmann** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Sou apaixonado por programar, aprender e ensinar. 
 
-Here are some ideas to get you started:
+Atualmente estou em transição de carreira. Sou estudante de desenvolvimento web Full Stack pela Trybe e desenvolvedor Frontend formado pela mesma escola, onde me tornei um entusiasta por React, Javascript e Styled-Components. Nas minhas formações como Bacharel em Matemática e Mestre em Matemática Aplicada tive meu primeiro contato mais sério com a programação em Pascal e Matlab.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+Acredito o que ser humano vive melhor quando está em conexão com a espiritualidade, que sua natureza real é muito maior do que aparenta ou se mostra. Acredito que valores como colaboração e trabalho em equipe são fundamentais para o crescimento a longo prazo. Minha busca por conhecer a mim mesmo e por entender mais a mente me levou a fazer especializações em Psicologia Corporal e Yoga. 
+
+Meu objetivo é atuar na área de Tecnologia que envolva uma Liderança Humanizada, em um local onde possa aprender e ensinar continuamente. Almejo mentorear novos desenvolvedores, pois acredito que posso contribuir com minha experiência nas mais diversas áreas para que os mais novos adquiram muito mais do que conhecimentos técnicos.
+
+Moro em Carazinho no RS, sou casado, amante de cães e gatos, vegetariano e praticante de Vipassana. Gosto de ouvir Heavy Metal "das antigas" e de ler sobre diversos temas.
 
 ---
 ### Projetos Trybe
