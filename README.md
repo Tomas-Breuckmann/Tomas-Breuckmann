@@ -14,3 +14,9 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+
+<div>
+<a href="https://api.whatsapp.com/send?phone=5554999964137" target="_blank"><img src="https://img.shields.io/badge/WhatsApp-2D9644?style=for-the-badge&logo=whatsapp&logoColor=white"></a>
+  <a href="https://www.linkedin.com/in/tomasbreuckmann/" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin" target="_blank"></a> 
+  <a href="mailto:tomas.yoga@yahoo.com" target="_blank"><img src="https://img.shields.io/badge/Yahoo!-6001D2?style=for-the-badge&logo=Yahoo!&logoColor=white"></a>
+</div>
