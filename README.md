@@ -2,13 +2,13 @@
 
 Sou apaixonado por **aprender**, **ensinar** e **programar**. 
 
-Atualmente estou em transição de carreira. Sou estudante de desenvolvimento web Full Stack pela Trybe e desenvolvedor **Frontend** formado pela mesma escola, onde me tornei um entusiasta por **React**, **Javascript** e **Styled-Components**. Nas minhas formações como Bacharel em Matemática e Mestre em Matemática Aplicada tive meu primeiro contato mais sério com a programação em **Pascal** e **Matlab**.
+Atualmente estou em transição de carreira. Sou estudante de desenvolvimento web Full Stack pela Trybe e desenvolvedor **Frontend** formado pela mesma escola, onde me tornei um entusiasta por **React**, **Javascript** e **Styled-Components**. Nas minhas formações como *Bacharel em Matemática* e *Mestre em Matemática Aplicada* tive meu primeiro contato mais sério com a programação em **Pascal** e **Matlab**.
 
-Acredito o que ser humano vive melhor quando está em conexão com a espiritualidade, que sua natureza real é muito maior do que aparenta ou se mostra. Acredito que valores como **colaboração** e **trabalho em equipe** são fundamentais para o crescimento a longo prazo. Minha incessante busca por **conhecer a mim mesmo** e por entender mais a mente humana me levou a fazer especializações em Psicologia Corporal e Yoga. 
+Acredito o que ser humano vive melhor quando está em conexão com a *espiritualidade*, que sua natureza real é muito maior do que aparenta ou se mostra. Acredito que valores como **colaboração** e **trabalho em equipe** são fundamentais para o crescimento a longo prazo. Minha incessante busca por *aprimoramento pessoal* e por entender mais a mente humana me levou a fazer especializações em *Psicologia Corporal* e *Yoga*. 
 
-Meu objetivo é atuar na área de Tecnologia que envolva uma **Liderança Humanizada**, em um local onde possa aprender e ensinar continuamente. Almejo mentorear novos desenvolvedores, pois acredito que posso contribuir com minha experiência nas mais diversas áreas para que os mais novos adquiram, além de conhecimentos técnicos, experiências que contribuam para uma vida mais feliz.
+Meu objetivo é atuar na área de *Tecnologia* que envolva uma **Liderança Humanizada**, em um local onde possa aprender e ensinar continuamente. Almejo *mentorear novos desenvolvedores*, pois acredito que posso contribuir com minha experiência nas mais diversas áreas para que os mais novos adquiram, além de conhecimentos técnicos, experiências que contribuam para uma vida mais *feliz*.
 
-Moro em Carazinho no RS, sou casado, amante de cães e gatos, vegetariano, investigador profundo do Yoga e praticante de meditação Vipassana. Gosto de ouvir Heavy Metal "das antigas" e de ler sobre diversos temas.
+Moro em Carazinho no RS, sou casado, amante de cães e gatos, vegetariano, investigador profundo do *Yoga* e praticante de meditação *Vipassana*. Gosto de ouvir Heavy Metal "das antigas" e de ler sobre diversos temas.
 
 ---
 ### Projetos Trybe
